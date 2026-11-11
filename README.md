@@ -32,7 +32,7 @@ El procesamiento de los datos se dividió en tres capas de abstracción dentro d
 ---
 
 ## 🚀 Cómo Replicar este Proyecto
-1. Clonar el repositorio: `git clone https://github.com/TU_USUARIO/proyecto-1-credit-risk-roll-rates.git`
+1. Clonar el repositorio: `git clone https://github.com/DylanLencina-arg/proyecto-1-credit-risk-roll-rates.git`
 2. Ejecutar `sql/01_create_table.sql` en PostgreSQL para preparar la base de datos.
 3. Importar la data cruda `credit_card_balance.csv` mediante la función `COPY` de pgAdmin.
 4. Correr `sql/02_roll_rates_analysis.sql` para generar la matriz consolidada.
