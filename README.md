@@ -29,7 +29,7 @@ El procesamiento de los datos se dividió en tres capas de abstracción dentro d
 * **Tasa de Cura (*Cure Rate*):** **57,619 cuentas** registradas en mora temprana (`2. 1-30`) lograron retornar a `1. AL DIA`, demostrando una alta efectividad en acciones de cobro preventivo en los primeros 30 días.
 * **Mora Crítica Irrecuperable:** El **96.7%** de las cuentas que ingresan a `4. +60` permanecen retenidas en mora tardía o avanzan a *Castigo* (*Write-off*).
 
-![Power BI Dashboard](assets/dashboard_preview.png)
+![Power BI Dashboard](credit-risk-roll-rates/dashboard_preview.png)
 
 ---
 
