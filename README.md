@@ -37,3 +37,12 @@ El procesamiento de los datos se dividió en tres capas de abstracción dentro d
 3. Importar la data cruda `credit_card_balance.csv` mediante la función `COPY` de pgAdmin.
 4. Correr `sql/02_roll_rates_analysis.sql` para generar la matriz consolidada.
 5. Cargar el resultado resultante en Power BI y abrir `pbix/dashboard_riesgo_crediticio.pbix`.
+
+---
+
+## 📁 Dataset
+Debido a los límites de almacenamiento de GitHub para archivos de gran volumen (>100MB), el dataset crudo original no se encuentra alojado en este repositorio.
+
+* **Fuente de datos:** [Kaggle - Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/data)
+* **Archivo utilizado:** `credit_card_balance.csv` (~3.8M de filas).
+* **Data procesada en repo:** En la carpeta `data/` se incluye únicamente la matriz resumida (`matriz_roll_rates_resumen.csv`) generada tras el pipeline en PostgreSQL.
