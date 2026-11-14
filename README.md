@@ -28,7 +28,8 @@ El procesamiento de los datos se dividió en tres capas de abstracción dentro d
 * **Deterioro Temprano (*Roll Rate 1-30 a 31-60*):** Un volumen significativo de **60,570 cuentas** rodó de `1. AL DIA` a mora temprana (`2. 1-30`), representando el mayor foco de riesgo de liquidez inicial.
 * **Tasa de Cura (*Cure Rate*):** **57,619 cuentas** registradas en mora temprana (`2. 1-30`) lograron retornar a `1. AL DIA`, demostrando una alta efectividad en acciones de cobro preventivo en los primeros 30 días.
 * **Mora Crítica Irrecuperable:** El **96.7%** de las cuentas que ingresan a `4. +60` permanecen retenidas en mora tardía o avanzan a *Castigo* (*Write-off*).
-![Power BI Dashboard](assets/dashboard_preview.png)
+![Power BI Dashboard](<img width="1291" height="674" alt="dashboard_preview" src="https://github.com/user-attachments/assets/6c4a4752-3a90-4633-9368-84e3547bea9c" />
+)
 ---
 
 ## 🚀 Cómo Replicar este Proyecto
